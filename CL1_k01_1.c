@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//1T2_15ban_sudounaohiro
+
 
 void main(void){
 	int sum;
